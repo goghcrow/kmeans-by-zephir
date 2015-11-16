@@ -1,3 +1,4 @@
+~~~
 zephir init
 zephir builddev
 zephir build
@@ -8,8 +9,7 @@ zephir build
 4. 最好先声明变量，并且赋初始值，否则可能发生段错误
 5. Traversal 要用 for xx in iterator() 来遍历
 
-				// FUCK
-				// let centroid->coordinates[n] += <\KMeans\Point> point->coordinates[n];
+// let centroid->coordinates[n] += <\KMeans\Point> point->coordinates[n];
 
 
 切记：
@@ -30,3 +30,4 @@ source /prefix/php-src-dir/.gdbinit
 zbacktrace
 
 http://www.laruence.com/2011/06/23/2057.html
+~~~
